@@ -1,4 +1,6 @@
-这是一个在https://github.com/kazuki-vim/bose-qc45-firmware?tab=readme-ov-file的基础上修改的图像化的qc45降级脚本。  
+这是一个在https://github.com/kazuki-vim/bose-qc45-firmware?tab=readme-ov-file  
+
+的基础上修改的图像化界面的qc45降级脚本。  
 
 不再需要安装依赖环境（不少人饱受pip3之苦）  
 
@@ -6,3 +8,12 @@
 
 水平有限，使用了gpt辅助完成，请大佬们见谅（QwQ）  
 
+下面是免责声明！！！  
+
+!!确认后，虽然降级了固件，但问题并没有解决！！  
+
+降级不是 Bose 官方支持的操作  
+
+您需要承担对自己的设备进行变砖的所有责任。  
+
+目前，此方法仅在 Windows 上进行了测试  

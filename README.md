@@ -20,6 +20,7 @@ fireware和main.exe放在一个文件夹里面就可以用了
 
 先点开始监测在进行固件升级操作就可以了  
 
+这是我的b站【boseqc45傻瓜式降级】 https://www.bilibili.com/video/BV1LPdeYeEn8/?share_source=copy_web&vd_source=65224ddc13f07d222dc9fee0cf701164  
 
 This is a graphical interface-based downgrading script for the Bose QC45, modified on the basis of https://github.com/kazuki-vim/bose-qc45-firmware?tab=readme-ov-file.  
 
@@ -40,3 +41,7 @@ It has only been tested on Windows 11.
 Just put the firmware and main.exe in the same folder, and then it can be used.  
 
 Click "Start Monitoring" first, and then perform the firmware downgrading operation.   
+
+This is my Bilibili account： https://www.bilibili.com/video/BV1LPdeYeEn8/?share_source=copy_web&vd_source=65224ddc13f07d222dc9fee0cf701164  
+
+
